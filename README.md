@@ -1,5 +1,5 @@
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## SecureTrack
 
 ![image](https://github.com/user-attachments/assets/a8c14857-494d-4404-b420-3266ce47a02a)
 
